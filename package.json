@@ -1,0 +1,22 @@
+{
+  "name": "eslint-config-shiwaforce",
+  "version": "0.1.0",
+  "description": "Shareable config for eslint by ShiwaForce",
+  "keywords": [
+    "eslint",
+    "eslint-config"
+  ],
+  "author": "ShiwaForce <hello@shiwaforce.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shiwaforce/eslint-config-shiwaforce"
+  },
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "eslint": "^3.13.1"
+  }
+}
