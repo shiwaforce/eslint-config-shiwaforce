@@ -1,6 +1,6 @@
 "use strict"
 
-module.export = {
+module.exports = {
 	"rules": {
 		"space-before-function-paren": [2, { "named": "never" }],
 		"no-shadow-restricted-names":  [2],
